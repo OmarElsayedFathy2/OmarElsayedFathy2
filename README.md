@@ -46,13 +46,17 @@ Building scalable and clean software with modern .NET technologies.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=OmarElsayedFathy2&show_icons=true&theme=github_dark&rank_icon=github" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmarElsayedFathy2&layout=compact&theme=github_dark" />
+  <!-- كارت الإحصائيات العامة (يحتوي على عدد الريبو والكونتربيوشنز) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=OmarElsayedFathy2&show_icons=true&theme=github_dark&rank_icon=github&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
 </p>
----
+
+<p align="center">
+  <!-- كارت الـ Streak (يظهر الاستريك الحالي وأعلى استريك وإجمالي الكونتربيوشنز) -->
+  <img src="https://streak-stats.demolab.com?user=OmarElsayedFathy2&theme=github_dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ## 🚀 Featured Projects
 
