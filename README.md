@@ -49,12 +49,8 @@ Building scalable and clean software with modern .NET technologies.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmarElsayedFathy2&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarElsayedFathy2&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=OmarElsayedFathy2&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarElsayedFathy2&show_icons=true&theme=github_dark&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarElsayedFathy2&layout=compact&theme=github_dark" />
 </p>
 
 
