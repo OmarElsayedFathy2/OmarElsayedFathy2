@@ -8,7 +8,7 @@ Building scalable, secure, and high-performance web applications using modern .N
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 
 - 🎓 Computer Science Student at Alexandria University (2023 – 2027)
 - 💻 Aspiring .NET Full-Stack Developer
