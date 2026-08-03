@@ -108,23 +108,13 @@ Building scalable, secure, and high-performance web applications using modern .N
 ---
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OmarElsayedFathy2&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmarElsayedFathy2&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=OmarElsayedFathy2&theme=github-dark&hide_border=true" />
 </p>
 
-<div align="center">
-  <div style="display: inline-block; border: 2px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117;">
-    <img src="https://github-readme-streak-stats-three.vercel.app/?user=OmarElsayedFathy2&theme=github-dark&hide_border=true" alt="Omar's GitHub Streak" />
-  </div>
-</div>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats-three.vercel.app/?user=OmarElsayedFathy2&theme=github-dark&hide_border=true" />
+</p>
 
 ## Connection
 
