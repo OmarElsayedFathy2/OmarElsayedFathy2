@@ -118,7 +118,7 @@ Building scalable, secure, and high-performance web applications using modern .N
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarElsayedFathy2&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Omar's GitHub Streak" />
+  <img src="https://github-readme-streak-stats-three.vercel.app/?user=OmarElsayedFathy2&theme=github-dark&hide_border=true" />
 </p>
 
 
