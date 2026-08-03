@@ -150,16 +150,6 @@ A responsive portfolio website showcasing my projects, skills, and experience.
 
 🔗 https://github.com/OmarElsayedFathy2/Portfolio
 
-<!-- TODO:
-- Add Certifications
-- Update GitHub Stats
-- Add new project
--->
-
-
----
-
-## 🌐 Connect with Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/omar-elsayed55?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 🌍 Portfolio: https://omarelsayedfathy2.github.io/Omar-s-portfolio/
