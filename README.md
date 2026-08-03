@@ -119,7 +119,7 @@ Building scalable, secure, and high-performance web applications using modern .N
 </p>
 
 <p align="center">
-  <img src="[https://streak-stats.demolab.com?user=OmarElsayedFathy2&theme=github-dark&hide_border=true](https://streak-stats.demolab.com?user=OmarElsayedFathy2&theme=dark&hide_border=true)" />
+  <img src="https://streak-stats.demolab.com?user=OmarElsayedFathy2&theme=dark&hide_border=true" />
 </p>
 
 ## Connection
