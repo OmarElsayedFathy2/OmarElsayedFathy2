@@ -115,8 +115,10 @@ Building scalable, secure, and high-performance web applications using modern .N
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=OmarElsayedFathy2&theme=github-dark&hide_border=true" />
-</p>ct with Me
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=OmarElsayedFathy2&theme=github-dark&hide_border=true" />
+</p>
+
+## Connection
 
 - 📧 **Email:** momoahead89@gmail.com
 - 💼 **LinkedIn:** https://linkedin.com/in/omar-elsayed55
