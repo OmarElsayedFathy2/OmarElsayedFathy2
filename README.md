@@ -68,6 +68,8 @@ Building scalable, secure, and high-performance web applications using modern .N
 - Implemented role-based authentication and authorization
 - Developed inventory, billing, order tracking, and product management modules
 - Optimized backend processing and improved application performance
+  
+🔗 https://github.com/OmarElsayedFathy2/PharmacyMarts
 
 ---
 
@@ -77,6 +79,8 @@ Building scalable, secure, and high-performance web applications using modern .N
 - Role-based dashboards for Admin, Doctor, Patient, and Reception
 - Appointment booking, patient records, radiology, and feedback modules
 - Implemented real-time doctor-patient communication
+
+🔗 https://github.com/OmarElsayedFathy2/SCMS
 
 ---
 
@@ -106,14 +110,13 @@ Building scalable, secure, and high-performance web applications using modern .N
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=OmarElsayedFathy2&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarElsayedFathy2&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OmarElsayedFathy2&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmarElsayedFathy2&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=OmarElsayedFathy2&theme=github_dark&hide_border=true" />
 </p>
-
 ## 📫 Connect with Me
 
 - 📧 **Email:** momoahead89@gmail.com
@@ -123,27 +126,6 @@ Building scalable, secure, and high-performance web applications using modern .N
 ---
 
 ⭐ *Always learning, always building, and always improving.*
-## 🚀 Featured Projects
-
-### 🏥 Smart Clinic Management System
-A comprehensive clinic management system built with ASP.NET Core MVC, Entity Framework Core, and SQL Server.
-
-🔗 https://github.com/OmarElsayedFathy2/SCMS
-
----
-
-### 💊 Pharmacy Delivery System
-A pharmacy management and delivery platform with authentication, database integration, and modern architecture.
-
-🔗 https://github.com/OmarElsayedFathy2/PharmacyMarts
-
----
-
-### 🌐 Personal Portfolio
-A responsive portfolio website showcasing my projects, skills, and experience.
-
-🔗 https://github.com/OmarElsayedFathy2/Portfolio
-
 
 - 💼 LinkedIn: https://www.linkedin.com/in/omar-elsayed55?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 🌍 Portfolio: https://omarelsayedfathy2.github.io/Omar-s-portfolio/
