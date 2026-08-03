@@ -150,6 +150,12 @@ A responsive portfolio website showcasing my projects, skills, and experience.
 
 🔗 https://github.com/OmarElsayedFathy2/Portfolio
 
+<!-- TODO:
+- Add Certifications
+- Update GitHub Stats
+- Add new project
+-->
+
 
 ---
 
