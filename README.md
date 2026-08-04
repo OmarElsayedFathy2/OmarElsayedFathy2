@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Omar%20Elsayed%20Fathy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20.NET%20Full-Stack%20Developer%20|%20Computer%20Science%20Student&descAlignY=60)
 
-# Hi 👋, I'm Omar Elsayed Fathy 
+# Hi 👋, I'm Omar Elsayed Fathy  
 
 ### Aspiring .NET Full-Stack Developer | Computer Science Student
 
