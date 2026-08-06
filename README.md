@@ -113,7 +113,7 @@ Building scalable, secure, and high-performance web applications using modern .N
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-three.vercel.app/?user=OmarElsayedFathy2&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats-three.vercel.app/?user=OmarElsayedFathy2&theme=github-dark&hide_border=true&cache=true" />
 </p>
 
 ## Connection
